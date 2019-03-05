@@ -1,0 +1,11 @@
+num2=int(input())
+a2=0
+b2=1 
+count=2
+print(b2,end=" ")
+while(count<=num2):
+    c=a2+b2
+    a2=b2
+    b2=c
+    print(c,end=" ")
+    count=count+1
