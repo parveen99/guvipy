@@ -1,0 +1,21 @@
+n1=int(input())
+if(n1==1):
+    print("one")
+elif(n1==2):
+    print("two")
+elif(n1==3):
+    print("three")
+elif(n1==4):
+    print("four")
+elif(n1==5):
+    print("five")
+elif(n1==6):
+    print("six")
+elif(n1==7):
+    print("seven")
+elif(n1==8):
+    print("eight")
+elif(n1==9):
+    print("nine")
+elif(n1==10):
+    print("ten")
