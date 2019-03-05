@@ -1,0 +1,2 @@
+umm=input()
+print(umm)
