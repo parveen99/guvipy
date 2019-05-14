@@ -1,0 +1,6 @@
+n12,k12=map(int,input().split(" "))
+n22,k22=map(int,input().split(" "))
+n66,k66=map(int,input().split(" "))
+print(k12-n12)
+print(k22-n22)
+print(k66-n66)
